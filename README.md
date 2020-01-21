@@ -1,1 +1,1 @@
-# Investment-Management-with-Python-and-Machine-Learning-Specialization
+# Investment-Management-with-Python-and-Machine-Learning
