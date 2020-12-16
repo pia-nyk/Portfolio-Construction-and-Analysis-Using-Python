@@ -17,4 +17,14 @@
   
   [Calculating MDD for Small cap and Large cap companies](Working_with_drawdowns.ipynb)
   
+  <b> Why skewness and kurtosis should be considered? </b>
+  The returns in real world hardly ever follow Gaussian distribution. The returns are much larger/smaller in actual. Skewness, being the measure of assymetry tells how much a curve deviates from normal.
+  In theory, the probability of getting extreme returns should diminish symmetrically as in the tails of a normal curve. however, the actual probabilities turn out to be higher. For analysing this, kurtosis can be used. 
+  Kurtosis, gives us information about the thickness of the tail of the distruibution. 
   
+  <b> Jaque-Bera test </b> can be used to find the normality of returns data. 
+  
+  S(R) = <img src="https://render.githubusercontent.com/render/math?math=E[(R - E(R))^3]/[Var(R)]^{3/2}"><br/>
+  K(R) = <img src="https://render.githubusercontent.com/render/math?math=E[(R - E(R))^4]/[Var(R)]^2"><br/>
+
+[Checking the normality of hedge fund indices](Devaition From Normality.ipynb)
