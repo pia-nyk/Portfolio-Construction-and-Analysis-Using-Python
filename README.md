@@ -11,4 +11,4 @@
   <li> Annualized Volatility <img src="https://render.githubusercontent.com/render/math?math=$\sigma_{ann}$ = $\sigma_p\sqrt{p}$"></li>
   <li> Sharpe Ratio = Excess returns/annualized volatility </li><br/>
   
-  [Check out the use of sharpe ratio to access investment returns on Small cap and Large cap companies](Risk_Adjusted_Returns.ipynb)
+  [Check out the use of sharpe ratio to assess investment returns on Small cap and Large cap companies](Risk_Adjusted_Returns.ipynb)
