@@ -11,11 +11,11 @@
   <li> Annualized Volatility <img src="https://render.githubusercontent.com/render/math?math=$\sigma_{ann}$ = $\sigma_p\sqrt{p}$"></li>
   <li> Sharpe Ratio = Excess returns/annualized volatility </li><br/>
   
-  [Check out the use of sharpe ratio to assess investment returns on Small cap and Large cap companies](Risk_Adjusted_Returns.ipynb)
+  [Check out the use of sharpe ratio to assess investment returns on Small cap and Large cap companies](Introduction to Portfolio Construction and Analysis with Python/Risk_Adjusted_Returns.ipynb)
 
   <li> Maximum drawdown = (Trough value - Peak value)/Peak value </li><br/>
   
-  [Calculating MDD for Small cap and Large cap companies](Working_with_drawdowns.ipynb)
+  [Calculating MDD for Small cap and Large cap companies](Introduction to Portfolio Construction and Analysis with Python/Working_with_drawdowns.ipynb)
   
   <b> Why skewness and kurtosis should be considered? </b><br/>
   The returns in real world hardly ever follow Gaussian distribution. The returns are much larger/smaller in actual. Skewness, being the measure of assymetry tells how much a curve deviates from normal.
@@ -27,4 +27,4 @@
   <li>S(R) = <img src="https://render.githubusercontent.com/render/math?math=E[(R - E(R))^3]/[Var(R)]^{3/2}"></li>
   <li>K(R) = <img src="https://render.githubusercontent.com/render/math?math=E[(R - E(R))^4]/[Var(R)]^2"></li>
   
-  [Checking the normality of hedge fund indices](Devaition From Normality.ipynb)
+  [Checking the normality of hedge fund indices](Introduction to Portfolio Construction and Analysis with Python/Devaition From Normality.ipynb)
