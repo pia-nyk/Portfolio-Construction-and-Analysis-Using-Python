@@ -13,7 +13,7 @@
   
   [Check out the use of sharpe ratio to assess investment returns on Small cap and Large cap companies](Risk_Adjusted_Returns.ipynb)
 
-  <li> Maximum drawdown = (Trough value - Peak value)/Peak value </li>
+  <li> Maximum drawdown = (Trough value - Peak value)/Peak value </li><br/>
   
   [Calculating MDD for Small cap and Large cap companies](Working_with_drawdowns.ipynb)
   
