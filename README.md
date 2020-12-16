@@ -26,5 +26,5 @@
   
   S(R) = <img src="https://render.githubusercontent.com/render/math?math=E[(R - E(R))^3]/[Var(R)]^{3/2}"><br/>
   K(R) = <img src="https://render.githubusercontent.com/render/math?math=E[(R - E(R))^4]/[Var(R)]^2"><br/>
-
+  
 [Checking the normality of hedge fund indices](Devaition From Normality.ipynb)
