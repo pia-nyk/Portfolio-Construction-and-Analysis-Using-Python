@@ -35,17 +35,24 @@
   <li> Value at risk (VaR) = maximum loss that can occur to a portfolio holding with a given probability </li>
   <li> Beyond VaR (CVar) = Expected return, conditional upon the return being less than the value at risk number = <img src="https://render.githubusercontent.com/render/math?math=-E(R|R < -VaR)"></li>
   
-  Finding out VaR and CVaR on Hedge fund indices - Downside Measures.ipynb
-  
   <b> Standard methods for calculating VaR </b>
   <ol>
     <li> Historical (Non-Parametric) - no model assumption required but relies completely on historical data </li>
     <li> Variance-Covariance (Parametric Gaussian) - assumes a Gaussian distribution but returns hardly follow such a distribution </li>
     <li> Parametric Non Gaussian - Specification risk involved (risk of having chosen wrong model) </li>
-    <li> Cornish Fisher (Semi Fisher) - no model assumption required <img src="https://render.githubusercontent.com/render/math?math=Z_$\alpha$' = Z_$\alpha$ + cohesion"><li>
+    <li> Cornish Fisher (Semi Fisher) - no model assumption required <\li>
   </ol>
+      
+ Finding out VaR and CVaR on Hedge fund indices - Downside Measures.ipynb
   
-  
-  
+ <li> Return on a portfolio = Weighted average of all components of a portfolio </li>
+ <li> Volatility of a portfolio depends on the correlation between the elements of the portfolio </li>
+
+Analysing returns and volatility of a portfolio - Efficient Frontier.ipynb, N-Asset Efficient Frontier.ipynb
+
+<b> What is efficient frontier? </b><br/>
+The efficient frontier is the set of optimal portfolios that offer the highest expected return for a defined level of risk or the lowest risk for a given level of expected return. They can be obtained by plotting the risks and returns of elements of a portfolio. All of the portfolios on the efficient frontier are portfolios that you cannot improve on without changing either the volatility or the return. 
+
+
 
   
