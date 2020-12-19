@@ -42,13 +42,14 @@
     <li> Parametric Non Gaussian - Specification risk involved (risk of having chosen wrong model) </li>
     <li> Cornish Fisher (Semi Fisher) - no model assumption required <\li>
   </ol>
-      
- Finding out VaR and CVaR on Hedge fund indices - Downside Measures.ipynb
+  <br/>    
+      <i>Finding out VaR and CVaR on Hedge fund indices - Downside Measures.ipynb</i>
   
  <li> Return on a portfolio = Weighted average of all components of a portfolio </li>
  <li> Volatility of a portfolio depends on the correlation between the elements of the portfolio </li>
+<br/>
 
-Analysing returns and volatility of a portfolio - Efficient Frontier.ipynb, N-Asset Efficient Frontier.ipynb
+<i>Analysing returns and volatility of a portfolio - Efficient Frontier.ipynb, N-Asset Efficient Frontier.ipynb</i>
 
 <b> What is efficient frontier? </b><br/>
 The efficient frontier is the set of optimal portfolios that offer the highest expected return for a defined level of risk or the lowest risk for a given level of expected return. They can be obtained by plotting the risks and returns of elements of a portfolio. All of the portfolios on the efficient frontier are portfolios that you cannot improve on without changing either the volatility or the return. 
